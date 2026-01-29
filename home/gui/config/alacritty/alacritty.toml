@@ -1,0 +1,8 @@
+[general]
+import = ["~/.config/alacritty/catppuccin-macchiato.toml"]
+
+[window]
+decorations = "None"
+
+[font]
+normal = { family = "Jetbrains Mono", style = "Regular" }
