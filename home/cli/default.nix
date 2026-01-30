@@ -2,7 +2,6 @@
 
 {
   imports = [
-    ./bat.nix
     ./eza.nix
     ./fzf.nix
     ./git.nix
