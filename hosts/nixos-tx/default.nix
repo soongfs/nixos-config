@@ -3,15 +3,12 @@
 {
   imports = [
     ./hardware-configuration.nix
+    ../../modules/common
     ../../modules/boot.nix
     ../../modules/clash-verge.nix
     ../../modules/fonts.nix
     ../../modules/gnome.nix
-    ../../modules/locale.nix
-    ../../modules/mirrors.nix
     ../../modules/network.nix
-    ../../modules/nix-features.nix
-    ../../modules/nix-ld.nix
     ../../modules/pipewire.nix
     ../../modules/print.nix
     ../../modules/touchpad.nix

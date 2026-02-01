@@ -25,5 +25,6 @@
     curl
     wget
     unzip
+    wl-clipboard
   ];
 }

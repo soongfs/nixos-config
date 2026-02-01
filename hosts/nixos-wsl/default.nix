@@ -1,12 +1,7 @@
 { inputs, username, ... }:
 
 {
-  imports = [
-    ../../modules/locale.nix
-    ../../modules/mirrors.nix
-    ../../modules/nix-features.nix
-    ../../modules/nix-ld.nix
-  ];
+  imports = [ ../../modules/common ];
 
   home-manager = {
     useGlobalPkgs = true;
