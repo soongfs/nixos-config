@@ -11,6 +11,7 @@
     ../../modules/network.nix
     ../../modules/pipewire.nix
     ../../modules/print.nix
+    ../../modules/sway.nix
     ../../modules/touchpad.nix
     ../../modules/unfree.nix
   ];
