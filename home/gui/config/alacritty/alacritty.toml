@@ -1,8 +1,8 @@
 [general]
-import = ["~/.config/alacritty/catppuccin-macchiato.toml"]
+import = ["~/.config/alacritty/gruvbox-material.toml"]
 
 [window]
 decorations = "None"
 
 [font]
-normal = { family = "Jetbrains Mono", style = "Regular" }
+normal = { family = "Maple Mono NF CN", style = "Regular" }
