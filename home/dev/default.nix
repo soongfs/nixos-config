@@ -10,5 +10,6 @@
     gdb
     gcc
     python3
+    lua-language-server
   ];
 }
