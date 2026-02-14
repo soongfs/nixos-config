@@ -10,7 +10,7 @@
     users.${username} = import ./home.nix;
   };
 
-  networking.hostName = "nixos-wsl";
+  networking.hostName = "nixos";
 
   wsl.enable = true;
   wsl.defaultUser = username;

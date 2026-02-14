@@ -23,7 +23,7 @@
     users.${username} = import ./home.nix;
   };
 
-  networking.hostName = "nixos-tx";
+  networking.hostName = "nixos";
 
   system.stateVersion = "25.05";
 }
